@@ -3,7 +3,7 @@
   Bem-Vindo! Eu sou Walcygleicson Oliveira ⚡
     <a href="https://instagram.com/walcy_gleicson" target="_blank"><img height="20em" width="80em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://walcygleicsonoliveira@gmail.com"><img height="20em" width="80em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/walcygleicson-oliveira" target="_blank"><img height="20em" width="80em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/walcygleicson-oliveira-53b194256/" target="_blank"><img height="20em" width="80em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </h1>
 </div>
 
